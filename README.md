@@ -75,5 +75,3 @@ Contributions to the Cricket Ranking App are welcome. If you would like to contr
 
 7. The project maintainers will review your pull request and provide feedback or merge it into the main repository.
 
-## License
-The Cricket Ranking App is released under the [MIT License](LICENSE).
